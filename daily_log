@@ -2,3 +2,11 @@ Day 1 - 07/05/2024
 First commit
 
 Extending the first commit
+
+Steps to do git on terminal
+1. mkdir and cd into directory
+2. git init
+3. git add .
+4. git commit -m "commit message"
+5. git remote add origin <https_link_to_repo or ssh_link_to_repo>
+6. git push origin master
