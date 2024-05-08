@@ -10,3 +10,7 @@ Steps to do git on terminal
 4. git commit -m "commit message"
 5. git remote add origin <https_link_to_repo or ssh_link_to_repo>
 6. git push origin master
+
+Cool Stuff in bash:
+- ls *anything -> Shows files that end with <anything> (can be used to search
+for specific file types like ls *.config)
